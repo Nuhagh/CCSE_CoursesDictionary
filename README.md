@@ -1,4 +1,4 @@
-# CCSE_CoursesDictionary
+# CCSE Courses Dictionary
 A dictionary of College of Computer Science and Engineering courses' codes:names.
 <p>You can use the same code with different dictionary (language dictionaries, medical terms ...etc.</p>
 <ul>
