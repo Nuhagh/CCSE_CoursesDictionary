@@ -24,4 +24,4 @@ while(repeat=="y"):
     #Ask user if he wants to re-enter another course name   
     repeat=input("Search Another Course? Press y for yes or n for no)")
     if repeat != "n" and repeat !="y":
-        x=input("PLEASE. Press y for yes or n for no)")
+        repeat=input("PLEASE. Press y for yes or n for no)")
