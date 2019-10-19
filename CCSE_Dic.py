@@ -26,6 +26,6 @@ while(repeat=="y"):
         print("No Course Found, check the code & the number")
    
     #Ask user if he wants to re-enter another course name   
-    repeat=input("Search Another Course? Press y for yes or n for no)")
+    repeat=input("Search Another Course? Press y for yes or n for no: ")
     while repeat != "n" and repeat !="y":
-        repeat=input("PLEASE. Press y for yes or n for no)")
+        repeat=input("PLEASE. Press y for yes or n for no: ")
